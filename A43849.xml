@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's prospective-glasse a sermon at a metropolitical visitation held at the cathedral church of Christ in Canterbury on the 29th of April, 1663 : preacht before the right reverend father in God, Henry, Lord Bishop of Chichester ... representative of the most reverend father in God, William ... Lord Archbishop of Canterbury ... / by Sam. Hinde, one of His Majesties chaplains, and present incumbent of St. Mary's Church in Dover ...</title>
+            <author>Hinde, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43849</idno>
+            <idno type="STC">Wing H2056</idno>
+            <idno type="STC">ESTC R43251</idno>
+            <idno type="EEBO-CITATION">27078147</idno>
+            <idno type="OCLC">ocm 27078147</idno>
+            <idno type="VID">109955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1720:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's prospective-glasse a sermon at a metropolitical visitation held at the cathedral church of Christ in Canterbury on the 29th of April, 1663 : preacht before the right reverend father in God, Henry, Lord Bishop of Chichester ... representative of the most reverend father in God, William ... Lord Archbishop of Canterbury ... / by Sam. Hinde, one of His Majesties chaplains, and present incumbent of St. Mary's Church in Dover ...</title>
+                  <author>Hinde, Samuel.</author>
+               </titleStmt>
+               <extent>[8], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Redmayne for John Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Testimonies concerning the renowned Dr. Sanderson"--p. [2] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Hosea IX, 7 --  Sermons.</term>
+               <term>Visitation sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109955:1"/>
+            <pb facs="tcp:109955:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLANDS</hi> Proſpective-Glaſſe: A SERMON AT A Metropolical Viſitation HELD AT The Cathedral Church of <hi>CHRIST</hi> in <hi>CANTERB<g ref="char:V">Ʋ</g>RY,</hi> on the 29<hi rend="sup">th</hi> of April 1663.</p>
+            <p>PREACHT Before the Right Reverend Father in God HENRY Lord Biſhop of <hi>Chicheſter,</hi> the then Repreſentative of the Moſt Reverend Fa<g ref="char:EOLhyphen"/>ther in God, WILLIAM, by Divine Providence Lord Arch-Biſhop of <hi>Canterbury</hi> His Grace, and of all <hi>England</hi> Primate and Metropolitan, Our Moſt Worthy Dioceſan.</p>
+            <p>By <hi>Sam. Hinde,</hi> one of His Majeſties Chaplains, and preſent Incumbent of St <hi>Mary</hi>'s Church in <hi>Dover,</hi> then called to attend that Service for the Three Deaneries of <hi>Dover, Bridge</hi> and <hi>Elam.</hi>
+            </p>
+            <q>
+               <p>IEHOVA NISSI. <hi>Write this for a Memorial in a Book, and rehearſe it in the ears of</hi> Ioſhua: <hi>For I will utterly put out the Remembrance of</hi> Amalek <hi>from under Heaven.</hi>
+               </p> 
+               <bibl>Ex. 17.14.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Redmayne</hi> for <hi>John Crook</hi> at the Sign of the Ship in St <hi>Pauls</hi> Church-yard. 1663.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:109955:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>Geo. Stradling <hi>S.T.P.Rev. in<lb/> Chriſto Pat. D.</hi> Gilb. <hi>Epiſc.</hi>
+                  <lb/> Lond. <hi>à Sac. Domeſtic.</hi>
+               </signed>
+               <dateline>
+                  <hi>Ex Aed. Sabaud.</hi>
+                  <lb/>
+                  <date>Maii 14.<lb/> 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109955:2"/>
+            <head>TO THE Right Reverend Father in God HENRY Lord Biſhop of CHICHESTER.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>YOur Lordſhip was then in the Archi-Epiſcopal Throne when I was in the Pulpit preaching the following Sermon, and be<g ref="char:EOLhyphen"/>came the Grand Exemplar of Attention to that great Confluence both of <hi>Clergie</hi> and <hi>Laity</hi> then preſent; What was then (though with much weakneſs) offered to Your Ear, is now with all becoming and imaginable Humility preſented to Your Eye. I make my Addreſs to Your Lordſhip at this time <hi>Inſtar Omnium,</hi> be<g ref="char:EOLhyphen"/>cauſe at that time Your Lordſhip was more
+<pb facs="tcp:109955:3"/>then Your Self, and in all Capacities fitter to Patronize what now flies to Your <g ref="char:V">Ʋ</g>mbrage for Shelter.</p>
+            <p>In the enſuing Tract, Your Lordſhip will finde I have ranſack't Gods dreadfull Artillery, and planted many rending and roaring Cannons a<g ref="char:EOLhyphen"/>gainſt ſpiritual Wickedneſs then reigning and ra<g ref="char:EOLhyphen"/>ging in High Places. None I hope will ſay, (as <hi>Laertius</hi> of the Writings of <hi>Chryſippus</hi>) I have taken up all that came in my way, ſince the Mar<g ref="char:EOLhyphen"/>gin is able to make good the Text, and declare I have medled with nothing but what was Analo<g ref="char:EOLhyphen"/>gical and Suitable to it; and yet with ſo much, that as <hi>Apollodorus</hi> the Athenian ſaid of the ſame <hi>Chryſippus</hi> his Writings, If (the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) all were taken out that was not mine own, there would be much blanck in this little Sermon.</p>
+            <p>If the good People of the Land ſhall be bet<g ref="char:EOLhyphen"/>ter'd in their Devotion by the peruſal of it, O well is me and happy ſhall I be! If any ſhall ſhuffle themſelves out, becauſe I have left them out in the Application, as unwilling either Pul<g ref="char:EOLhyphen"/>pit or Preſs ſhould remonſtrate (I hope) their Forgiven Crimes both in Religion and Loyaltie, I have but the ſame ſucceſs the Prophet <hi>Iſaiah</hi> compained of, <hi>Domine quis credidit Auditui
+<pb facs="tcp:109955:3"/>noſtro? Lord, who hath believed our Re<g ref="char:EOLhyphen"/>port, or to whom is the Arm of the Lord re<g ref="char:EOLhyphen"/>vealed?</hi> But, did I ſay Forgiven Crimes? I could wiſh it were ſo, even now when I labour under a godly Jealouſie that it may be otherwiſe; Becauſe the Whoredoms of their Mother <hi>Jeza<g ref="char:EOLhyphen"/>bel</hi> and their Witchcrafts are yet ſo many, The Lowing of the Oxen and the the Bleating of the Sheep is as loud as ever, Their Murmurings and Complottings against <hi>David</hi> on the Throne, and <hi>Abiathar</hi> at the Altar declare it; The very ſhew of their Countenances witneſs againſt them, Their Illegal and Schiſmatical Conventions publiſh it; Yea, their publick and profeſt Diſobedience to most Laws and Sanctiòns, holy and humane, do proclaim a <hi>Nolumus hunc regnare</hi> againſt their <hi>King,</hi> and a <hi>Nolumus ſcientiam Viarum tua<g ref="char:EOLhyphen"/>rum</hi> against their <hi>God.</hi> We endeavour to draw them (as the Prophet <hi>Hoſea</hi> ſayes) <hi>with the Cords of a man, and the bands of Love,</hi> but our Cords are to weak, they ſnap them in pieces, as <hi>Sampſon</hi> did the Cords of the <hi>Philiſtims;</hi> nor muſt we ever exſpect a better return from the beſt of them, then <hi>Olympias</hi> had for <hi>Eurydice,</hi> who preſented her with a Treble choice of a <hi>Sword, a Haltar,</hi> or <hi>a Cup of Poyſon.</hi> By Your Lordſhips leave, I declare to the world a
+<pb facs="tcp:109955:4"/>known Truth, that I can ſhew under the hand of a great Sectarie, in a Letter written to my ſelf, then going Commiſsioner to the <hi>Iſle of Man;</hi>
+               <note place="margin">Anno 1661.</note> in the behalf of ſome of them in that Iſland, that they call themſelves, <hi>The elect and pretious People of God, The Stone cut out of the Mountains, The ſame Stone which the Buil<g ref="char:EOLhyphen"/>ders refuſed,</hi> with many ſuch blaſphemous Inter<g ref="char:EOLhyphen"/>jections in that Paper. Yet three of theſe were then preſented in the Eccleſiaſtical Court (I being then Judg) two for Adultery, and one for For<g ref="char:EOLhyphen"/>nication. When <hi>Democritus</hi> had declared his opinion of a ſort of men, that they were Good, and Juſt, and Sober, a By-stander ſaid, <hi>Heu me mi<g ref="char:EOLhyphen"/>ſerum, quod nec uno quidem adhuc ſum poti<g ref="char:EOLhyphen"/>tus!</hi> So for my part I could never finde wherein lay the excellency of theſe People that ſo much and ſo loudly ſound forth their own praiſes. This I do, that no Obligation will binde, no Friendſhip oblige them: The Friendſhip of <hi>Zenocrates</hi> was not to be purchaſed by <hi>Alexander; Amicitiam emere vero voluit, Philoſophus vendere nolu<g ref="char:EOLhyphen"/>it.</hi> They are not unlike <hi>Phaonius</hi> in <hi>Plutarch,</hi> Bold and Barbarous. Take meaſure of them by their Loyaltie to their KING their Nurſing-Father, and among thouſands you will not finde a <hi>Crate<g ref="char:EOLhyphen"/>rus,</hi> or an <hi>Hephaeſtion,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb facs="tcp:109955:4"/>that loves either the <hi>King</hi> in His Perſon, or the <hi>King</hi> in His Government, but are as ready as ever to ſlander the Foot-ſteps of the Lords Anointed. And if you meaſure them by their Obedience to the CH<g ref="char:V">Ʋ</g>RCH their Aged Mother, <hi>Malitia eorum excaecavit eos;</hi> their Hatred towards Her is like the <hi>Veſtal</hi> Fires, inexstinguiſhable: For to ſet up a <hi>Capitol</hi> of their own Imaginations, they would deſtroy all the Chur<g ref="char:EOLhyphen"/>ches of God in the Land.</p>
+            <p>
+               <hi>Inter haec quid agamus?</hi> Among all theſe Re<g ref="char:EOLhyphen"/>volted Schiſmaticks, what can the poor Ministers do, whoſe Flocks are (like <hi>Adonis</hi> Gardens) beſet and hedg'd with theſe Thorns and Bryars of Con<g ref="char:EOLhyphen"/>tention? Only pray, That God would ſtill the rage<g ref="char:EOLhyphen"/>ing of this Sea and madneſs of this People; and in the mean time flie as I do now to a Goſpel Remedy, <hi>Dic Eccleſiae.</hi>
+            </p>
+            <p>The Great and Good God put it into the hearts of that Great Renowned Aſſembly to provide ſome ſeaſonable Remedy against the growth of this peſti<g ref="char:EOLhyphen"/>lent Contagion, —<hi>Ne pars ſincera trahatur.</hi> And the ſame God ſubdue theſe incorrigible People to himſelf in Obedience, to themſelvs in Humility, to their King (Our Moſt Gracious Sovereign) in Loyaltie, to the Church in Duty, to the World in Peace and <g ref="char:V">Ʋ</g>nity; that that may be true of them
+<pb facs="tcp:109955:5"/>which <hi>Livy</hi> ſayes of <hi>Val.Flaccus,</hi> Quantum prius Luxuriae exemplum fuerat, tantum poſtea Modeſtiae &amp; Sanctitatis ſpecimen evaſit: <hi>And as they have given up their members inſtruments of unrigh<g ref="char:EOLhyphen"/>teouſneſs unto ſin; ſo they may give up them<g ref="char:EOLhyphen"/>ſelves inſtruments of Righteouſneſs unto Holi<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>My LORD, I have tranſgreſt the Rule of <hi>Phocion</hi>'s Orator <hi>Verborum paucitate,</hi> being carried away (as with a violent and rapid Tide) <hi>Rerum magnitudine.</hi> Much being ſaid in a little room, as to the Thing; and too much (I fear) only as to Your Lordſhips Concerns: For which (as before I crav'd Your Patronage, ſo now) I most humbly crave Your Lordſhips Pardon; and (for<g ref="char:EOLhyphen"/>aſmuch as the Leſs is bleſſed of the Greater) Your Bleſsing and Benediction upon</p>
+            <closer>
+               <salute>(My LORD)</salute>
+               <signed>A true Son of the Church,<lb/> and a devoted Servant of<lb/> Your Lordſhips,<lb/> SAM. HINDE.</signed>
+               <dateline>
+                  <hi>From my Study in</hi>
+                  <lb/> Dover, <date>May 8.<lb/> 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:109955:5"/>
+            <head>
+               <hi>England's</hi> Proſpective-Glaſſe: being a Sermon at a Metropolitical Viſitation, held at the Cathedral Church of <hi>Chriſt</hi> in <hi>Canterbury,</hi> on the 29th. of <hi>April 1663.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Hoſea</hi> ix. 7.</bibl>
+                  <p>The dayes of Viſitation are come; The dayes of Recom<g ref="char:EOLhyphen"/>pence are come; <hi>Iſrael</hi> ſhall know it. The Prophet is a Fool; the Spiritual man is mad; For the multitude of thine Iniquity, Great is the Hatred.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>RIght Reverend; Reverend and Beloved; Men, Brethren and Fathers; For the hope of</hi> Iſrael<hi>'s ſake I ſtand here this day;</hi>
+               <note place="margin">Acts. 22.1.</note> 
+               <hi>And as Saint</hi> Paul <hi>ſaid to his</hi> Agrippa,<note place="margin">Act. 28.20. Act. 26.2.</note> 
+               <hi>I think my ſelf happy to ſtand here before you in this Metropolitical Church; which, among other Churches,</hi>
+               <note place="margin">Act. 26.2. Pſal. 54.13. Iude 5.20. Act. 13.44.</note> 
+               <hi>is like the Kings Daughter among other Women, more Glorious. In this Aſſembly, compos'd of ſo many Glorious Stars, that each in their order fight againſt</hi> Cicera; <hi>In this City, where there are Some of many, though not of every Nation under Heaven; and eſpecially upon this occaſion, which I may call the Churches Reſurrection after a tedious Ilyad of affliction, her glorious Triumphs after her bloo<g ref="char:EOLhyphen"/>dy Veſpers;</hi>
+               <note place="margin">Iſai. 60.1.</note> 
+               <hi>when the Sons of them that have afflicted her do come bending unto her, and they that deſpiſed her fall down at the ſoales of her feet.</hi>
+            </p>
+            <p>
+               <hi>She that was afflicted and toſſed with Tempests,</hi>
+               <note place="margin">Iſai. 54.11. Act. 27.8. Iſai. 60.</note> 
+               <hi>is now arriv'd at the fair Havens; She that was forſaken and hated, is made an Eternal Glory, and the joy, I hope, of many Ge<g ref="char:EOLhyphen"/>nerations.</hi>
+            </p>
+            <pb n="2" facs="tcp:109955:6"/>
+            <p> 
+               <hi>It was not long ſince we might have complain'd with the Church of old,</hi>
+               <note place="margin">Lam. 4.3.</note> Nudaverunt Lamiae mammas, <hi>We had no ſuck but of the breaſts of Dragons: But now, bleſſed be God, we ſuck the breaſts of Kings;</hi>
+               <note place="margin">Iſai. 60.16.</note> The Lord is our Saviour; and our Redeemer, the mighty God of <hi>Iacob.</hi>
+            </p>
+            <p>
+               <hi>It was not above a few years ſince Thoſe,</hi>
+               <note place="margin">Acts. 27.6.</note> 
+               <hi>that with</hi> Jaſon <hi>and his Confederates turn'd the World upſide down, had dealt with our Religion as</hi> Licurgus <hi>did with his Country Coynes;</hi>
+               <note place="margin">Plutarch.</note> 
+               <hi>or as</hi> Rehoboam <hi>did with his Fathers ſhields;</hi>
+               <note place="margin">1 Chro. 12.10.</note> 
+               <hi>Turn'd our Gold to Braſſe, our Religion to Rebellion, our Faith to Facti<g ref="char:EOLhyphen"/>on: But now our Braſs is turn'd to Gold,</hi>
+               <note place="margin">Iſai. 60.17, 18, &amp;c.</note> 
+               <hi>our Iron to Silver, and our Stones to Iron. Inſtead of Violence and Deſolation, we have now Salvation for Walls and Bulwarks.</hi>
+            </p>
+            <p>
+               <hi>It is not many Moneths ſince the Lying Spirit in the mouth of ſome of</hi> England's <hi>Prophets,</hi>
+               <note place="margin">1 Kings 22.22.</note> 
+               <hi>and Spiritual men, told the Nation,</hi>
+               <note place="margin">Iſai. 28.15. Pſal. 126.1</note> That theſe dayes of Viſitation would never come, That theſe dayes of Recompence ſhould not come nigh them: <hi>To them and to the amazed World, (in this miracu<g ref="char:EOLhyphen"/>lous and ſtupendious change) I bring my Text to ſpeak, and ſpeak in Thunder.</hi>
+            </p>
+            <p>
+               <hi>THe Dayes of Viſitation Are come,</hi>
+               <note place="margin">Text.</note> 
+               <hi>The Dayes of Recompence are come:</hi> Iſrael <hi>ſhall know it, and know withall, Thoſe Prophets were Fools, and thoſe Spiritual men were mad.</hi> Firſt to deceive Themſelves, and then the People, and in the end to Deſtroy both; like Dragons ſucking the blood of Elephants,<note place="margin">Plin. lib. 7.</note> which <hi>Pliny</hi> ſayes, bring ruine to both the Dragon and the Elephant.</p>
+            <p>Rebellion is ever of the nature of the <hi>Aſpigo-Gorgon,</hi> a Serpent in <hi>Egypt,</hi> that when it hath lived a while on the deſtruction of others, at laſt it deſtroyes it ſelf. For this the Flood-gates of Gods indignation were opened upon them, and it burſt out in a full Torrent in theſe words of my Text: <hi>The dayes of Viſitation are come, &amp;c.</hi>
+            </p>
+            <pb n="3" facs="tcp:109955:6"/>
+            <p> Three things I humbly offer to your Conſideration, from the Text.</p>
+            <list>
+               <item>1. To look upon it in reference to the Context; That's our Retroſpect.</item>
+               <item>2. To take a view of the words themſelves; That's our Proſpect.</item>
+               <item>3. To apply the Hiſtorical and Doctrinal part thereof to our preſent Purpoſe, which is the End of all Sermons, and the Queen of all Ends: Herein Gods glory is moſt concern'd, Becauſe hereby Gods People are beſt edified.</item>
+            </list>
+            <p>I begin with the Firſt General,<note place="margin">1 Retroſpe<g ref="char:EOLhyphen"/>ction.</note> and take up the Particu<g ref="char:EOLhyphen"/>lars in our paſſage through the Whole.<note place="margin">1 Cor. 15.23.</note> They will ariſe to us this day, as we our ſelves ſhall at the laſt day, every one in his Order.</p>
+            <p>
+               <hi>Aaron</hi> was diſtinguiſhed from other Men by his Apparel,<note place="margin">Ex. 28.4.</note> and therefore called, <hi>Merubba Begadim, Multiplicatus Ve<g ref="char:EOLhyphen"/>ſtibus,</hi> the man with many Clothes; he had his Ephod, his Breſtplate, Mitre, Girdle, his Pallium, his Plate of Gold.<note place="margin">Philc. Iud.</note> The Ephod was made up of variety of Colours; in which <hi>Aaron</hi> repreſented the whole World, all States and Con<g ref="char:EOLhyphen"/>ditions of Men, all Variety and Sorts of Sinnes: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> All are repreſented in this Text as it ſtands in reference to the Context.</p>
+            <p>In contemplation of their number I may ſay of them as <hi>Lea</hi> ſaid of <hi>Gad, Behold a Troop commeth.</hi>
+               <note place="margin">Gen 30.11.</note> In every Chap<g ref="char:EOLhyphen"/>ter you have a black and dreadfull Catalogue; and in this Text you have the ſeveral parcels ſumm'd up to a mul<g ref="char:EOLhyphen"/>titude: <hi>For the Multitude of thine Iniquity, Great is the Hatred.</hi>
+            </p>
+            <p>God had drawn them with the cords of a Man,<note place="margin">Hof. 11.4.</note> and with the bands of Love; He had miraculously preſerved them,<note place="margin">Pſal. 78.13.</note> with the Rocks of Water in the Sea, and with the Seas of Water from the Flinty Rocks; He made the Sun to ſtand ſtill in his courſe, that they might go on with Theirs;
+<pb n="4" facs="tcp:109955:7"/>He multiplyed Viſions and Similitudes,<note place="margin">Hoſ. 12.10. Neh. 9.26. Pſ. 107.11. Deut. 32.15. Hoſea 9.1. Pſal. 78.8. 2. Chron. 11.1. Ier. 7.9. Amos 3.10. Rom. 3.2. 1. King 12.31. Hoſ. 8.12. Mich. 6.16. 1 King. 15.34. 1 King. 12.29. 1 King. 12.16. Amos 4.4. Hoſ. 12.11. Hoſ 9.9.</note> tryed all wayes, eaſie and difficult, by his own Prophets; But yet for all this they rebell'd againſt him; and inſtead of being a <hi>Jeſu<g ref="char:EOLhyphen"/>run,</hi> a Righteous people, They, like to <hi>Jeſurun</hi> in the worſt ſenſe, lightly eſteemed of the God of their Salvation: and preferr'd Fools and Mad men, ſuch as led them into Idola<g ref="char:EOLhyphen"/>try, Rebellion, Treaſon, Murthers, Rapine, Robbery, Schiſme, Hereſie, Apoſtacy, before <hi>Iſaiah, Hoſea, Amos, Joel, Obadiah, Jonah, Micah,</hi> who were entruſted, and to whom was concredited the Oracular Truhs of Heaven, and preach'd and propheſied to them at the ſamettimes; and then when they made to themſelves Prieſts, of the loweſt of the People, the Law of God was accounted to them as a ſtrange thing; The Statutes of <hi>Omri,</hi> which taught them to work Miſchief by a Law, were preferr'd before the Statutes and the Heſts of Heaven; And <hi>Jeroboam</hi> the Son of <hi>Nebat</hi> that made <hi>Iſrael</hi> to ſinne, and ſet up his Calves in <hi>Dan</hi> and <hi>Bethel,</hi> before <hi>Rehoboam</hi> their native King and Sovereign. Thus they multiplyed their Tranſgreſſions at <hi>Gilgal,</hi> and their Altars as the Furrows of the Field. <hi>Profunde pecca<g ref="char:EOLhyphen"/>verunt ſient in diebus Gibeah:</hi> They have deeply ſinn'd as in the dayes of <hi>Gibeah.</hi> Why, what dayes were thoſe? <hi>Anſw.</hi> Thoſe very dayes when there was no King in <hi>Iſrael,</hi> when <hi>Fecit quiſque,</hi>
+               <note place="margin">Iudges 17.6.</note> when every Man did what ſeemed good in his own eyes; and when every thing that was Bad ſeemed Good; whole Floods of Diſorder, and Seas of Con<g ref="char:EOLhyphen"/>fuſion in Church and State, had now delug'd all the Ter<g ref="char:EOLhyphen"/>ritories of <hi>Iſrael.</hi>
+            </p>
+            <p>The Idolatries of <hi>Micah,</hi>
+               <note place="margin">Biſhop An.</note> the Burglaries and Robberies of <hi>Dan,</hi> the Adulteries and Murthers of <hi>Gibeah, Micah</hi> a private Man,<note place="margin">Iudg. 17.1.</note> 
+               <hi>Ephraim</hi> a publick Court, <hi>Gibeah</hi> a thronged City,<note place="margin">Iudg. 20.4.</note> and <hi>Dan</hi> a glorious Tribe. <hi>Micah</hi> at Mount <hi>Ephraim</hi> at the middle of the Land, <hi>Gibeah</hi> at one end, and <hi>Dan</hi> at the other, all wrapt up in the ſame diſorder and confu<g ref="char:EOLhyphen"/>ſion.<note place="margin">2 Sam. 20.1.</note> And who were the <hi>Sheba</hi>'s that blew theſe Trum<g ref="char:EOLhyphen"/>pets
+<pb n="5" facs="tcp:109955:7"/>of Rebellion;<note place="margin">Gen. 38.29.</note> who the <hi>Pharez</hi> that made ſuch wide and rude Breaches in the Churches ſides. But the great pretender to Prophecy, the onely Spirit-Mongers,<note place="margin">
+                  <hi>Text.</hi> Hoſ. 13.16. Haba. 1.11.</note> the Spi<g ref="char:EOLhyphen"/>ritual Men of time, ſuch as endeavoured to bring even God <hi>himſelf</hi> into their Conſpiracies. It was thoſe dayes of Confuſion that brought in theſe dayes of Viſitation. It was thoſe Men of whom my Text declares; <hi>The Prophet is a Fool, the Spiritual Man is mad.</hi>
+               <note place="margin">Jer. 5.9.</note> And now ſhall not God viſit for theſe things, ſhall not his ſoul be avenged on ſuch a Nation as this; yea, he takes the Rod in his Hand,<note place="margin">Pſal. 89.32. Iſa. 28.18. Iſa. 28.14.</note> and Catechiſes them. What? did your Prophets covenant with Death and Hell? did they make a ſcorn of my Judg<g ref="char:EOLhyphen"/>ments, and bear you in hand, that the dayes of Viſitation ſhould never come? that Prophet is a Fool.<note place="margin">Jer. 5.12, 13.</note> Did your Spiritual Men tell you the dayes of recompence would not come nigh in your dayes and time: I tell you,<note place="margin">Ezek. 13.10.</note> your Spiri<g ref="char:EOLhyphen"/>tual Men are mad: For both <hi>Deus &amp; Dies viſitationis,</hi> the God of vengeance for which you never cared, and the Day of vengeance which you never feared, are come up<g ref="char:EOLhyphen"/>on you as a Thief in the night;<note place="margin">1 Theſ. 5.2. Luke 4.21. <hi>Text.</hi>
+               </note> and this day is this Scri<g ref="char:EOLhyphen"/>pture fulfilled in your ears, <hi>The dayes of viſitation are come, the dayes of recompence are come, and Iſrael ſhall know it both by their own and Prophets ruine.</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 1.2, 3, 4, 6, 7, &amp;c.</note> What it is to change Joy into Mourning, Abundance into Scarcity, Cleaneſs to Filthineſs, Religion to Idolatry, numerous Armies into a <hi>Kibroth-hattaavah,</hi> Graves of Luſt, dayes of Triumph to dayes of Vengeance, dayes of Sinning to dayes of Re<g ref="char:EOLhyphen"/>compence, of Knowledge to Ignorance, Wiſe Men to Fools, ſober Men to mad Men, and Purity and Goodneſs to Iniquity and Hatred. For this ten fold prevarication they ſtand indicted in this Chapter and Text, ſins which I do but touch I cannot ſtand to handle. And ſo from the ſins committed by them, I come to the judgements inflicted on them; from the Retroſpect to the Proſpect:<note place="margin">2. <hi>Part.</hi>
+               </note> 
+               <hi>The dayes of viſitation are come,</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:109955:8"/>
+            <p> The viſitations of Heaven are multifarious; and our God ſometimes viſits in Perſon,<note place="margin">Hab. 3.3. Mat. 25.36.</note> ſometimes by Proxie: In Heaven he overlooks the Royal Orders and Armies of thoſe Lights and Lamps of Glory, in their great and num<g ref="char:EOLhyphen"/>berleſs variety:<note place="margin">Pſal. 65, 9.</note> In Earth he viſits ſeveral Perſons, Pariſhes, Provinces, Kingdomes, Nations.</p>
+            <p>He viſits the Sons of Men,<note place="margin">Pſal. 106.4.</note> ſometime in mercy, to deli<g ref="char:EOLhyphen"/>ver them from their Vaſſalage and Slavery, from their Bon<g ref="char:EOLhyphen"/>dage and Captivity; So he viſited <hi>Iſrael, Viſitans Viſitars,</hi> when he delivered them from the <hi>Amonite,</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.3.16.</note> &amp;c. whoſe height was as the height of Cedars,<note place="margin">Amos 2.9.</note> and the ſtrength as the ſtrength of Oakes.</p>
+            <p>He viſits the ſouls of Men by his Spirit, conveying through the Conduits of his mercy a thouſand ſweet influ<g ref="char:EOLhyphen"/>ences of Gace and Piety,<note place="margin">Acts 15.14.</note> of Peace and Pardon in Chriſt Jeſus <hi>Oriens ex alto,</hi>
+               <note place="margin">Zach. 3.8. Luke 1.78. <hi>ib. ver.</hi> 68. <hi>By his word.</hi>
+               </note> the day-ſpring from on high viſits us, and gives a rice to that gratulatory Song of <hi>Zachary, Bleſ<g ref="char:EOLhyphen"/>ſed be the Lord of Iſrael, for he hath viſited and redeemed his people.</hi>
+               <note place="margin">1 Cor. 11.24. Luke 22.19 1 Sam. 9.9.</note> 2. By his Word and Sacraments in the Per<g ref="char:EOLhyphen"/>ſons of thoſe he calls Seers in the old Teſtament, and Over<g ref="char:EOLhyphen"/>ſeers in the New. To theſe he gives a Faculty to cure the Blinde, thoſe that are born and bred in Blindneſs, Igno<g ref="char:EOLhyphen"/>rance, and Superſtition, and to open their Eyes with their Spiritual Eye-Salve;<note place="margin">Acts 20.28. Luke 14.13. Rev.3.18. Acts 3.21, 22. 1 King. 18.21. <hi>By his Sa<g ref="char:EOLhyphen"/>craments.</hi> D.D. Mat. 28.19.24. Pſal. 80.14. 1 Cor. 11.</note> to make the Deaf to hear, by thun<g ref="char:EOLhyphen"/>dering out the terrours of his Law, and the Dumb to ſpeak, and ſpeak loud and plain of the Gracious Promiſes of his Goſpel; the Lame to walk, thoſe that halt between two Opinions, are ſet right and ſtraight by application of this Balm; he viſits the hereditary Leper by our miniſtration in Baptiſme, the cuſtomary Leper in the Sacrament of the Lords Supper, waſhing us from Original, and cleanſing us from our actual tranſgreſſion. And all theſe are merciful and gracious viſitations. But if theſe will not prevail, he knowes how to ſhift Scenes, to turn over another Leaf, and to viſit us after another manner. Firſt our ſins in Anger,
+<pb n="7" facs="tcp:109955:8"/>and call us to account for all our licentious back-slidings, as holy <hi>Job</hi> ſpeaks, <hi>Job</hi> 35.15. Secondly,<note place="margin">Job 35.15.</note> our ſelves in Thun<g ref="char:EOLhyphen"/>der, as the Prophet <hi>Iſaiah</hi> ſayes,<note place="margin">Iſa. 29.6.</note> 
+               <hi>Thou ſhalt be viſited of the Lord with thunder, and ſhaking and a great noiſe, a whirl<g ref="char:EOLhyphen"/>wind, and a tempeſt, and a devouring fire.</hi> But alas! we are never able to ſtand out ſuch a terrible viſitation as this is. For as the ſame Prophet,<note place="margin">Iſa. 33.14.</note> 
+               <hi>Who can ſtand before the de<g ref="char:EOLhyphen"/>vouring fire, and dwell before everlasting burning?</hi>
+            </p>
+            <p>Thirdly, Our poſterity in puniſhment.<note place="margin">Exod. 20.5.</note> Now every pu<g ref="char:EOLhyphen"/>niſhment is a viſitation, and the grievouſneſs of a puniſh<g ref="char:EOLhyphen"/>ment is meaſured out by the greatneſs and extent of it; as here where God viſits the iniquity of the Fathers upon the Children to the third and fourth Generation, <hi>&amp;c.</hi> But this is ſtill with temporal puniſhments:<note place="margin">OBS.!</note> For as no Child can be ſaved by his Fathers goodneſs, ſo ſhall never any be damned for his Fathers wickedneſs. And now I ſee not why the Prophet might not take in all theſe three viſitations, (thoſe of mercy being neglected) and by con<g ref="char:EOLhyphen"/>ference of Scripture with Scripture, of Prophet with Pro<g ref="char:EOLhyphen"/>phet. It is very clear that God viſits their ſins in Anger, for they provoked him to anger with their Images, and in the furiouſneſs of his anger he ſent evil Angels among them.<note place="margin">Pſal. 78.50. and 58.1 Sam. 7.10.1 Sam. 12.18.</note> Secondly, Themſelves in thunder; So ſayes <hi>Samnel, The Lord thundered with a great thunder: And the Lord ſent thunder and rain; ſo that their Cattle were destroyed with Hail, and their Flocks with hot thunder-bolts.</hi> Thirdly, Their poſterity in puniſhment; ſo in the Verſe before my Text, for thoſe that were already born,<note place="margin">Hoſ. 9.6.</note> 
+               <hi>Egypt ſhall gather them, and Memphis ſhall bury them:</hi> And for the hopes of a future Progeny, that they may be wholly defeated of that; <hi>Give them: What wilt thou give them?</hi>
+               <note place="margin">Verſ. <hi>12.</hi>
+               </note> 
+               <hi>A miſcarry<g ref="char:EOLhyphen"/>ing Womb, and dry Breasts,</hi> Verſe 14.<note place="margin">Verſ. <hi>14.</hi>
+               </note> 
+               <hi>Though they bring up Children, I will deprive them from being Men, wo unto them when I depart from them,</hi> Verſe 12. I and wo when I come near them in any of theſe viſitations, upon their ſins
+<pb n="8" facs="tcp:109955:9"/>themſelves and their Poſterity. And under All theſe dread<g ref="char:EOLhyphen"/>full Viſitations did <hi>Iſrael</hi> groan and grieve, All thoſe made up one Woe; a Bitter Pill for <hi>Iſrael</hi> to ſwallow, how fair ſoever it may ſeem to be Guilded under <hi>The Dayes of Viſita<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>That one Woe being paſt,<note place="margin">Rev. 9.12.</note> but Behold another is at hand; The dayes of Recompence are come; which is the ſecond Branch of the Text, and which, though I ſever from the other in the Paraphraſe, I ſhall unite them in the Doctrinal and Applicatory part. The Prophet <hi>Jeremiah</hi> ſtyles God the God of <hi>Recompence,</hi>
+               <note place="margin">Ier. 51.36.</note> one that will maintain his Cauſe with <hi>vengeance;</hi> and proportion that <hi>vengeance</hi> and <hi>recom<g ref="char:EOLhyphen"/>pence,</hi> to ſinnes of his Adverſaries.</p>
+            <p>Eaſtern and Weſtern <hi>Babylon,</hi> Real and Myſtical, That of <hi>Caldea,</hi> and that of <hi>Italy</hi> ſhall find that true; That God ſhall reward her as ſhe hath ſerved us.<note place="margin">Rev. 18.5, 6.</note> 
+               <hi>Hoſea</hi> in the Perſon of Chriſt, and <hi>Hoſea</hi> ſignifies a Saviour, complains that they had forſaken him,<note place="margin">Ier. 2.13. Ier. 9, 13, 14.</note> the Foountain of living Waters; and now he will make them drink of thoſe Waters that are more bitter then the waters of <hi>Mara,</hi> more venomous then the waters of <hi>Nonacridis.</hi>
+            </p>
+            <p>Be pleaſed to ſee in theſe dayes of Recompence,<note place="margin">Obſerv.</note> How the God of all Juſtice does proportion their puniſh<g ref="char:EOLhyphen"/>ments according to their ſinnes.</p>
+            <p>As their ſinnes exceeded the ſinnes of other People, ſo ſhall their ſorrowes,<note place="margin">Hoſ. 9.1. Hoſ. 9.2. ibid.</note> 
+               <hi>v.</hi> 1. The baynes of all publick Joy and Exultation are forbidden, <hi>v.</hi> 1. They have ſurfeited with abundance of Corn and Wine, and now God in Ju<g ref="char:EOLhyphen"/>ſtice ſayes, <hi>The Floor and Wine-preſs ſhall not feed them,</hi> verſe 2.<note place="margin">Hoſ. 11.12. Hoſ. 12.1. Verſe 3.</note> 
+               <hi>Ephraim</hi> had compaſs'd God about with Lyes in their Sinne, and now God compaſſeth them with Lyes in their puniſhment. For <hi>Mentietur Vinum,</hi> the Wine ſhall lye under her; ſhe ſhall be <hi>Vitis Foliata,</hi> a Vine full of Leaves, promiſing fair, performing nothing, ſerving but for a Flouriſh in This life, and a Flame in the Next;
+<pb n="9" facs="tcp:109955:9"/>According to their own wayes doth he recompence them, <hi>Now</hi> Iſrael <hi>is an empty Vine,</hi>
+               <note place="margin">Hoſ. 10.<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> 
+               <hi>bringing forth Fruit to himſelf, &amp;c.</hi> God looked for Grapes,<note place="margin">Hoſ. 12.2. Iſa. 5.2.</note> and behold wilde Grapes. Now <hi>Iſrael</hi> and <hi>Ephraim</hi> may look for Grapes, and behold no Grapes.</p>
+            <p>They would not dwell in the Lords Land; They thought ſcorn of that pleaſant Land, Now they ſhall not;<note place="margin">Pſ. 106.4.</note> for <hi>Ephra<g ref="char:EOLhyphen"/>im</hi> ſhall return to <hi>Egypt:</hi> And they that would not eat clean things in the Land of <hi>Palaſtine,</hi>
+               <note place="margin">Verſe <hi>3.</hi>
+               </note> ſhall eat unclean in the Land of <hi>Aſhur.</hi>
+            </p>
+            <p>They drank the Wine of their Condemned in the Houſe of their God,<note place="margin">Amos 2.8.</note> and now they ſhall not offer Wine to the Lord;<note place="margin">
+                  <hi>Verſe</hi> 4. Ier. 44.19. <hi>Verſe</hi> 4. Pſal. 78.30.</note> They offered Cakes in ſacrifice to the Queen of Heaven; and now the Sacrifices they offer to the Lord of Heaven ſhall be as the Bread of Mourners, <hi>v.</hi> 4. They have too long and too often Belched forth their Lyes and Blaſ<g ref="char:EOLhyphen"/>phemies in the Houſe of the Lord. Now God will cut off all occaſions of ſerving him or his People ſo any longer; for their Souls ſhall not come into the Houſe of the Lord, <hi>verſe</hi> 4. They did too Little like Fools,<note place="margin">Ib. <hi>ver.</hi> 4.</note> and too Much like Mad-men, in the day of their Tryal; and now they ſhall do Nothing in the day of their Trouble, <hi>verſe</hi> 5.<note place="margin">
+                  <hi>Verſe</hi> 5.</note> What will ye do in the ſolemn day? To others it ſhall be a Feſti<g ref="char:EOLhyphen"/>val, to you a Funeral.</p>
+            <p>They have ſet up Kings, but not by me;<note place="margin">Hoſ. 8.4.</note> But now in<g ref="char:EOLhyphen"/>ſtead of Kings, Tyrants ſhall rule over them.</p>
+            <p>They prided themſelves in the ſtrength of <hi>Ephraim;</hi> the ſtrength and number of the revolted Tribes; Now <hi>Ne glorientur in multitudine Filiorum. Egypt</hi> ſhall gather them, <hi>Memphis</hi> ſhall-bury them,<note place="margin">
+                  <hi>Verſe</hi> 13.</note> and <hi>Ephraim</hi> ſhall bring forth Children for the Murtherer.</p>
+            <p>They had contributed their Jewels and Ear-rings of Gold to the ſetting up of their Golden Calfe,<note place="margin">Ex. 32.2, 3.</note> and now <hi>Deſidera<g ref="char:EOLhyphen"/>bile Argentum,</hi>
+               <note place="margin">Hoſ. 9.6.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>rtica haereditabit Lappa in Tabernaculis eorum;</hi> The Nettle, that That ſhall ſting and trouble, they
+<pb n="10" facs="tcp:109955:10"/>ſhall poſſeſs the pleaſant Places,<note place="margin">Vita <hi>Cicero<g ref="char:EOLhyphen"/>nis.</hi>
+               </note> and the Thorne ſhall be in their Tabernacles. So that now <hi>Iſrael</hi> is like <hi>Archimides</hi> Tombe viſited by <hi>Cicero,</hi> which he found overgrown with Thornes and Nettles: And as they have done, ſo God hath rewarded them,<note place="margin">Iudges 1.7.</note> as <hi>Adonibezeck</hi> ſaid; All theſe Inſtances you have in the Verſes before my Text. To them I could adde, as belonging to the ſame Story too, That as they have ſown Wind, they have reaped the Whirlewind. At Beſt <hi>Ephraim</hi> was but as a Cake half baked,<note place="margin">Hoſ. 7.8. Hoſ. 8.7. Hoſ. 8.9. Rev. 3.16. Ier. 13.27.</note> and at Laſt God ſpued them out of his mouth. As Before they neigh<g ref="char:EOLhyphen"/>ed (like pamper'd Horſes) after forbidden beds: ſo Now they walk like ſolitary Aſſes in the Wilderneſſe, <hi>Onager ſibi Ephraim ſolitarius;</hi> nor is it the firſt time a Simple Aſſe hath been brought in to upbraid a falſe or forbidden Prophet. Their Abominations were as that that they moſt Ioved,<note place="margin">2 Pet. 2.16. <hi>Verſe</hi> 10.</note> 
+               <hi>Verſe</hi> 10. And their Puniſhment ſhall be as that that they moſt hated.<note place="margin">Text.</note> 
+               <hi>For the multitude of their Iniquity, great is the Hatred;</hi>
+               <note place="margin">
+                  <hi>Verſe</hi> 15.</note> and Verſe 15. of this Chapter, <hi>I hate them for their Inventions;</hi>
+               <note place="margin">Ioſh. 4.19, 20. Ioſh. 5.1, <hi>to</hi> 15. Ioſh. 10.6, 7. Amos 5.5. Ioſh. 22.<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.8</note> 
+               <hi>I will caſt them out of my Houſe, I will love them no more, All their Princes are Re<g ref="char:EOLhyphen"/>bels;</hi> What would no place but <hi>Gilgal</hi> and <hi>Bethel,</hi> where I have given them ſo many ſignal Favours, ſerve them to multiply their Idolatry, to vent thei r Foolery, to Act their mad Pranks in? why now <hi>Gilgal</hi> ſhall goe into Captivity, and <hi>Bethel</hi> ſhall come to nought. What would no Iniquity but that of <hi>Peor</hi> ſerve them for a Preſident? And could they find none ſo fit Panders for their Impiety as the Prophet, and the Spiritualman? Go tell that Prophet He is a Fool, and Thoſe Spiritual men that pretend ſo much of the Spirit, they are Mad men; For none but Bedlamers would ever have ravell'd a People ſo in their Religion to their God, or ſhaken them in their Loyalty to their King; and he that to ſet up a falſe God inſtead of a true, and a barbarous and bloody Tyrant,<note place="margin">1 King. 12.10.</note> whoſe Little finger was heavier then other King's Loynes, before their juſt and right and Lawfull
+<pb n="11" facs="tcp:109955:10"/>King and Soveraign. You counted my Prophet (ſayes God) that was filled with my Spirit at <hi>Ramath Gilead</hi> no better Man than a Fool and a Mad man: But who is the Fool now? and who the Mad men? Let me tell you,<note place="margin">2 King. 9.11.</note> and let the 16. Verſe ſpeak loud and home to thoſe that would have an Eradication of the true Prophets, and pronounce their Neck-Verſe that were for a Root and Branch-Ordi<g ref="char:EOLhyphen"/>nance, That they be alſo puniſh'd both in Root and Branch,<note place="margin">Hoſ. 9.16.</note> as V. 16. <hi>Their Root is dryed up, and I will yet ſlay the deareſt of their body.</hi> And thus the <hi>dayes of Recompence are come.</hi>
+            </p>
+            <p>Thus God does <hi>Culpae paenam coaptare;</hi> And thoſe Prieſts and Prophets,<note place="margin">Hoſ. 6.8.</note> that preach'd up Murder in <hi>Gilead</hi> a City of Blood, ſhall periſh in <hi>Gilead,</hi> And bring forth Children to the Sword and Slaughter;<note place="margin">Hoſ. 8.11.</note> And as <hi>Ephraim</hi> had made many Altars to ſinne, ſo Altars ſhall be made to him to ſinne.</p>
+            <p>The Scripture is full of Paradigms and Examples of this way of Proceeding, of proportioning mens puniſhment ac<g ref="char:EOLhyphen"/>cording to their Sinne: and Hiſtory abounds.</p>
+            <p>The <hi>Egyptians</hi> drowned the Children in the Rivers,<note place="margin">Ex. 1.22. Ex. 15.10. Levit. 10.1.</note> and themſelves were drowned in the Sea; They ſunk like Lead in the middeſt of the mighty Waters.</p>
+            <p>
+               <hi>Nadab</hi> and <hi>Abihu</hi> offered a ſtrange Fire before the Lord,<note place="margin">Ib. <hi>ver.</hi> 2.</note> and a ſtrange Fire did conſume thoſe Sons of <hi>Aaron.</hi>
+            </p>
+            <p>
+               <hi>Elimas</hi> the Sorcerer ſeeks to blind the eyes of <hi>Sergins Paulus,</hi>
+               <note place="margin">Act. 13.8, 12.</note> and God does blinde the eyes of <hi>Elimas</hi> the Sor<g ref="char:EOLhyphen"/>cerer. The like of <hi>Haman</hi> and his Gallows.</p>
+            <p>
+               <hi>Portia</hi> begg'd that the cruelty of <hi>Cataline</hi> might <hi>(Crude<g ref="char:EOLhyphen"/>liſſimo ſuppliciorum genere expiari)</hi> be expiated by ſome of the moſt cruel puniſhments or exquiſite torments that could be invented.<note place="margin">Hiſt, Rom.</note>
+            </p>
+            <p>
+               <hi>Olympus</hi> Biſhop of <hi>Carthage</hi> blaſpheming the Trinity was ſtruck dead with a Triple Thunderbolt.<note place="margin">Gabellicus.</note>
+            </p>
+            <p>
+               <hi>Maxentius</hi> was drowned by the Treachery of that Bridge which he had made to deſtroy <hi>Constantine</hi> and his Army:<note place="margin">Euſeb.</note> 
+               <hi>Pontibus devolutus est quos ad religioſi Principi paraverat exitium,</hi> Euſeb. Hiſt.</p>
+            <pb n="12" facs="tcp:109955:11"/>
+            <p> 
+               <hi>Alexander</hi> the Sixth was poyſoned by a Miſtake with the ſame Cup he prepared to have poyſoned his Favourite Cardinal <hi>Adrianus.</hi>
+               <note place="margin">Card. Ba<g ref="char:EOLhyphen"/>ron. An. Act. 12.1, 23.</note>
+            </p>
+            <p>But to return to Scripture, <hi>Herods</hi> cruel Life was pu<g ref="char:EOLhyphen"/>niſht with a cruel Death; He was ſmitten with an Angel, and he was eaten up with Wormes.</p>
+            <p>
+               <hi>Iudas</hi> at firſt had no bowels for his Maſter,<note place="margin">Act. 1.18.</note> at laſt he had none for himſelf: <hi>Viſcera Pietatis non habuit, &amp; effuſa ſunt omnia Viſcera ejus,</hi>
+               <note place="margin">Carthuſi<g ref="char:EOLhyphen"/>anus.</note> ſayes <hi>Carthuſianus.</hi>
+            </p>
+            <p>
+               <hi>Iſrael</hi> had deeply ſinn'd as in the dayes of <hi>Gibeah,</hi> and <hi>Iſrael</hi> muſt be deeply puniſht and ſpoyled in the dayes of <hi>Recompence.</hi>
+            </p>
+            <p>
+               <hi>Ephraim</hi> had liv'd upon Rapine and Spoyle and Plun<g ref="char:EOLhyphen"/>der;<note place="margin">Hoſ. 5.1. Prov. 5.22. Hoſ. 10.14.</note> They were as a Snare upon <hi>Mizpah;</hi> and ſpread their Nets upon Mount <hi>Tabor,</hi> Now they are taken in their own Snare, catch'd in their own Net, and utterly ſpoyled, as when <hi>Shalman</hi> ſpoyled <hi>Beth-Arbel;</hi> the Mother with the Children.</p>
+            <p>Thus they plow Wickedneſſe,<note place="margin">Hoſ. 10.13. Ez. 22.31. Pſ. 50.21. Hoſ. 9.7. 1 Cor. 10.6.</note> and reaped Iniquity; Eat the fruit of their Lyes, and were recompenced accor<g ref="char:EOLhyphen"/>ding to the works of their own hands.</p>
+            <p>Thus has God ſet their ſinnes in order, before Himſelf in point of Indignation, before Them in point of Puniſhment, before Hs in point of Preſident, that We luſt not after evil things as they alſo luſted; and be deſtroyed as they alſo were deſtroyed. Theſe things were done and written for our Example, <hi>Lego Hiſtoriam, ne fiam Hiſtoria.</hi> And God proceeds in this way of Recompence:</p>
+            <list>
+               <item>1. For his Juſtice-ſake;<note place="margin">Pſ. 58.11. Ier. 51.36.</note> to manifeſt his righteous dealing and proceedings, that at one time or another He will ſurely requite.</item>
+               <item>2. For his Servants ſake;<note place="margin">Ier. 7.12. 1 Cor. 10.12.</note> who he would have warned by other mens Woes, and have them learn to ſtand by others Falls, and learn and remember what others have forgot, to walk according to the golden Rule, and do no
+<pb n="13" facs="tcp:109955:11"/>more to others,<note place="margin">Matt. 7.12.</note> then we would others ſhould do to them.</item>
+               <item>3. For his Enemies ſake;<note place="margin">Pſal. 9.16.</note> that in their puniſhment they may reflect upon their ſin; and while the Chancery is open, they may ſue their Pardon.<note place="margin">Exod. 14.4.</note> God can get honour by <hi>Phara<g ref="char:EOLhyphen"/>oh</hi> and all his Hoſt, much more from <hi>Iſrael,</hi>
+                  <note place="margin">Prov. 5.22.</note> while he takes them in their own iniquities, and binds them with the Cords of their own ſin; as <hi>Jupiter</hi> bound <hi>Eyſon</hi> the <hi>Greekiſh</hi> Pyrat in the ſame Chains wherewith he had bound his Captives. And ſo I paſs forward to the next Stage.</item>
+            </list>
+            <p>
+               <hi>Iſrael ſhall know it, the Prophet is a fool, the Spiritual Man is mad.</hi>
+            </p>
+            <p>According to the Hebrew reading the words run thus:<note place="margin">Hebr. Lectie.</note> Know thou, O Iſrael, that thy Prophets have fool'd thee in<g ref="char:EOLhyphen"/>to theſe dayes of Viſitation, and thy ſpiritual Men have run thee up to this height of lewdneſs. They told thee they were far off, or would not come in your anger; and thou ſhalt know that by thy puniſhment which thou wouldſt not know in thy proſperity and fulneſs:<note place="margin">Gloſs. ord. Nich. Ly.</note> ſo the Ord. <hi>Gloſs,</hi> and <hi>Nich. Lyra.</hi> The Septuagint reads it thus; <hi>Iſrael ſicut vates inſaniens,</hi> or <hi>homo habens ſpiritum malo ſpirtu &amp; maligno agitatus,</hi>
+               <note place="margin">Sept.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>Saint <hi>Hierom. Affligetur Iſrael,</hi>
+               <note place="margin">Hierom.</note> 
+               <hi>Iſrael.</hi> ſhall be afflicted for neglecting the true Prophets, and adhering to the falſe.</p>
+            <p>
+               <hi>Mercer.</hi> thus,<note place="margin">Mercerus.</note> thus, <hi>Dies poenae abeſt, ſomniant impij Deum caecum ut cupidimem nunquam puniturum.</hi> But thoſe falſe or fooliſh Prophets that could not find a place for peni<g ref="char:EOLhyphen"/>tence, ſhall find a place for pennance, and then let them thank their Prophets and Pretenders to the Spirit.</p>
+            <p>
+               <hi>OEcolampadius</hi> thus, <hi>Nec te vana jactes ſpe,</hi>
+               <note place="margin">OEcolampa<g ref="char:EOLhyphen"/>dius.</note> 
+               <hi>quaſi diu proroganda poena; En adſunt dies. Scies te ſeductum à falſis Prophetis, ſtultum,</hi> i.e. <hi>ex corde ſuo ſtulta loquutum; arrepti<g ref="char:EOLhyphen"/>tios Actos maligno ſpiritu tuos Prophetas</hi> i. e. <hi>fanaticum ver<g ref="char:EOLhyphen"/>tiginoſum,</hi> Led on by the Spirit that rules in,<note place="margin">Epheſ. 2.2.</note> 
+               <hi>&amp;c.</hi>
+            </p>
+            <p>The Hebrew Doctors thus. <hi>R. Selomo Jarchi</hi> ſayes, Some that at firſt were true Prophets, after proved falſe,
+<pb n="14" facs="tcp:109955:12"/>and deſerved this reproach,<note place="margin">R. Selomo Iarchi. <hi>Jer. 28.1.</hi> R. Aben Ezra.</note> as <hi>Ananias</hi> the ſon of <hi>Azur,</hi> that they cloſed rather with the falſe Prophets, and laid ſnares and traps for the true. <hi>Rependet-vobis Dominus,</hi> the Lord will be avenged on you for eſteeming his Prophets Fools and Madmen, and preferring your own that were ſo indeed before them. Your own Prophets were they that ſpread the ſnare of the Fowler.<note place="margin">Hoſ. 5.1.</note>
+            </p>
+            <p>
+               <hi>Scient Iſraelitae &amp; confitebuntur de pſeudoprophetis à qui<g ref="char:EOLhyphen"/>bus ſeducti,</hi>
+               <note place="margin">R. David Kimchi.</note> 
+               <hi>fuerunt; &amp; dicebant illis, Pax Pax, Iſrael</hi> ſhall ſay that Prophet is a Fool, and that the multitude of their iniquity brought the hatred of God upon them; and the hatred of God was ſeen in permitting ſuch Prophets and Spi<g ref="char:EOLhyphen"/>ritual Men to ſeduce the People.</p>
+            <p>
+               <hi>Agnoſcent Iſraelitae ſtultus fuit Propheta cui aurem prae<g ref="char:EOLhyphen"/>buimus.</hi>
+            </p>
+            <p>
+               <hi>Agnoſcent Prophetas ſtultos &amp; furibundos fuiſſe non à Deo miſſos.</hi> Put all theſe together, and then as <hi>Iſrael</hi> ſhall know from God, ſo we ſhall know from <hi>Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+            </p>
+            <p>That Sin finds no ſhelter,<note place="margin">Rom. 8.31. Rom. 11.21 2 Pet. 2.4, 5 Hoſ. 2.23.</note> That no external priviledge can free us from the Arreſt of vengeance, That dayes of Sin and provocation are the forerunners of dayes of viſita<g ref="char:EOLhyphen"/>tion, and dayes of recompence, That no Sin, be it never ſo ſweet in the Commiſſion, will quit Coſt in the Conclu<g ref="char:EOLhyphen"/>ſion,<note place="margin">Acts 8.23. Matth. 7.2.</note> That with what meaſure we meet to others, the ſame ſhall be meaſured to us again, That God does not onely bring wicked Men to confuſion, but to ſhameful confuſi<g ref="char:EOLhyphen"/>on.<note place="margin">Pſal. 44.1. 1 Kin. 9.7.</note> 
+               <hi>Iſrael</hi> by liſtning to her falſe Prophets, hath brought themſelves under the prediction of the true Proverb, <hi>Iſrael ſhall be a proverb, and a common talk among all people:</hi> and this we learn from the firſt part of the Text, <hi>The dayes of viſitation are come, the dayes of recompence are come.</hi> From the ſecond,<note place="margin">Prov. 7.27. Hoſ. 9 6. <hi>Ibid.</hi> 13. 1 John 4.6.</note> theſe, <hi>Iſraels</hi> new lights have lodged their Peo<g ref="char:EOLhyphen"/>ple in the Chambers of death and darkneſs, and made God weary of them and their poſterity; <hi>Egypt ſhall gather
+<pb n="15" facs="tcp:109955:12"/>them,</hi> &amp;c. It is no new thing to pretend to the Spirit, when Men are altogether intending the works of the fleſh.</p>
+            <p>They that will not adhere to the God of Truth,<note place="margin">2 Theſ. 2.12. Jer. 14.14.</note> are in Juſtice given over to believe lyes. <hi>Ahab</hi> will not believe <hi>Micaiah,</hi> therefore a lying Spirit in the mouth of his Pro<g ref="char:EOLhyphen"/>phet ſhall deceive <hi>Ahab:</hi> and he had no leſs then Four hundred after his own heart.<note place="margin">2 Chr. 18.5.</note> No leſs then ten Tribes fall off from their Religion and Loyalty: the major part is not alwayes the better part in theſe general defections.<note place="margin">Ier. 31.7. Ioel 2.32.</note> And yet there is no defection ſo general, but there is a remnant that retain both Religion and Loyalty untainted.<note place="margin">Rom. 9.27. <hi>By</hi> Ephra<g ref="char:EOLhyphen"/>im <hi>is mea<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ten tribes.</hi> Iſai. 7.2. &amp; 9.8, 9. Hoſ. 5.3.9.7.</note> 
+               <hi>Ephraim</hi> may compaſs God about with lies, but <hi>Judah</hi> is faithful. Laſtly, Upon which I ſhall enlarge my ſelf more fully, I ſhall commend two Doctrinal obſervations to your memo<g ref="char:EOLhyphen"/>ries, and they are theſe.</p>
+            <p>That falſe and faithleſs Teachers, whether Prophets or Prieſts being weight in the Ballances of the Sanctuary dif<g ref="char:EOLhyphen"/>fer nothing from Fools and Madmen. Such Teachers,<note place="margin">Ier. 50.38. 1 Sam. 12.25.</note> ſuch Leaders as theſe bring inevitable ruine to themſelves, their Prince, and to their People; they render all odious and hateful to God and Man. <hi>For the multitude of thine ini<g ref="char:EOLhyphen"/>quity great is the hatred.</hi>
+               <note place="margin">Hoſ. 4.9. Iſa. 9.16. Prov. 26.6, 7.</note> 
+               <hi>The leaders of my people cauſe them to erre, and they that are led of them are deſtroyed.</hi> But to the firſt.</p>
+            <p>That of <hi>Solomon</hi> muſt be allowed of all; <hi>He that ſend<g ref="char:EOLhyphen"/>eth a meſſage by the hand of a Fool, is as one that cutteth off the leggs. The leggs of the lame are not equal, ſo is a parable in the hand of Fools.</hi>
+            </p>
+            <p>But theſe in the Text were not ſent,<note place="margin">Ier. 23.21. Hoſ. 5.4. <hi>Sine Princi<g ref="char:EOLhyphen"/>pali man<g ref="char:EOLhyphen"/>dato.</hi>
+               </note> and yet they ran; they made themſelves Amb aſſadors, but without any Cre<g ref="char:EOLhyphen"/>dentials; they made themſelves Prieſts without any Aa<g ref="char:EOLhyphen"/>ronical call; they went like <hi>Ahimaaz</hi> the ſon of <hi>Zadock</hi> without their meſſage,<note place="margin">2 Sam. 18.23.</note> and therefore a Fool upon record; they left their errand and their wits behind them,<note place="margin">Auguſt.</note> 
+               <hi>Facti ſunt fugitivi à cordibus ſuis.</hi>
+            </p>
+            <pb n="16" facs="tcp:109955:13"/>
+            <p> Every ſuch Leader is a <hi>Magor-miſſa-bid,</hi>
+               <note place="margin">Ier. 20.3.</note> a terrour to himſelf, and a terrour to all that are about him; and ac<g ref="char:EOLhyphen"/>cording to our Saviours deciſion, ſuch ſoul-murthering Prophets are but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ravening Wolves,<note place="margin">Matth. 7.45.</note> and there<g ref="char:EOLhyphen"/>fore he gives you a caution againſt them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Beware of theſe falſe Prophets.</hi> For all theſe falſe Prophets are fooliſh Prophets;<note place="margin">Prov. 17.21.</note> and as the Father of a Fool, ſo the Follower of a Fool hath no joy.</p>
+            <p>All Graces in holy lines are ever numbred under the name of Wiſdome,<note place="margin">Prov. 1.7.</note> and all Impieties and Profaneneſs un<g ref="char:EOLhyphen"/>der the name of Folly, which in my Text, like thoſe of <hi>God</hi> and <hi>Elam,</hi>
+               <note place="margin">Eze. 32.24.</note> are muſtered by multitudes. <hi>For the multi<g ref="char:EOLhyphen"/>tude of thine iniquity,</hi> &amp;c. And as I ſaid before, A multi<g ref="char:EOLhyphen"/>tude of iniquity ever brings with it a multitude of ſorrow, as the Prophet <hi>Jeremiah</hi> alledges;<note place="margin">Ier. 30.15.</note> 
+               <hi>For the multitude of thine iniquity thy ſorrow is incurable:</hi> In ſhort, in Heaven there is no room for Fools,<note place="margin">Prov. 1.32.</note> and how can they bring others there, that cannot find the way themſelves? And yet this is the firſt part of <hi>Iſraels</hi> woe and miſery in the day of her viſitation: <hi>The Prophet is a Fool.</hi>
+            </p>
+            <p>The ſecond is like unto it, widens it and worſens it, <hi>The Spiritual man is mad,</hi> That is the Man of the Spirit, that pretends ſo much to the Spirit, that Fathers all upon the Spirit; and which is worſe, upon the Spirit of God, when he is <hi>malo &amp; maligno ſpiritu arreptus,</hi> And which is worſt of all,<note place="margin">Gloſs. Or.</note> He brings in the Spirit of God to own things contrary to the word of God, to abett his Treaſon againſt his King and ſubvert the Religion of his God, to ſowe Re<g ref="char:EOLhyphen"/>bellion in the State and Sedition in the Church; He will find Goſpel Arguments againſt Goſpel Principles; This is the higheſt of this Spiritual man's frenzy; and of <hi>Iſraels</hi> miſery, to have Fools, and Mad men for their Leaders.</p>
+            <p>Folly and Madneſs do hang at the <hi>Duo ubera Sponſae,</hi> two Breaſts of Chriſts Spouſe, &amp; are as dangerou's as thoſe Serpents at the Breaſts of <hi>Cleopatra,</hi> and worſe; Thoſe could but
+<pb n="17" facs="tcp:109955:13"/>kill the Body, Theſe both Body and Soul.</p>
+            <p>
+               <hi>Hanibal</hi> was ill perplext,<note place="margin">Magis ſe à non pagnan<g ref="char:EOLhyphen"/>te Fabie, quàm à pugnante Marcello timeri. <hi>Plutarch. Ez. 13.10.</hi>
+               </note> as well with his <hi>Non pugnante Fabio,</hi> as this <hi>Pugnante Marcello.</hi> So <hi>Iſrael,</hi> between Fools that could do no good and Mad men that did much harm us (as between the upper and neither Mill-ſtone) was ground to Powder.</p>
+            <p>They preacht Peace, when there was an <hi>
+                  <g ref="char:V">Ʋ</g>lſciſci in Promptu;</hi> when Vengeance hover'd over them, and like an unlucky Faulcon, had nothing but Deſtruction and Ruine engraven upon her Varvels;<note place="margin">Ier. 7.4. 1 King. 9.22. Hoſ. 5.1.</note> They cry'd up the Temple of the Lord, the Temple of the Lord; and yet the Whoredome of <hi>Iezabel</hi> and her Witchcrafts lodg'd within them; and when the Trumpets of Peace were at their Mouths, Murthers and Slaughters were in their Hearts; for they were profound to make Slaughter. They were a Snare in <hi>Mezpah,</hi> and ſpread their Nets upon Mount <hi>Tabor.</hi> When they ſhould have preacht the Oracular truths of Heaven,<note place="margin">Mica 2.11. Ier. 5.31. Iſa. 1.23. Lam. 4.16. 1 King. 16.21. Mat. 11.17. Lam. 5.15. Pſal. 78.31.</note> they preacht of Wine and ſtrong drink, and my People lov'd to have it ſo; They had preach'd their Princes into Rebel<g ref="char:EOLhyphen"/>lion, and their People into Schiſme and Confuſion. <hi>Iſraels</hi> Prieſts were now like <hi>Athanaeus</hi> his Papers, <hi>Omnes Tibicines inſaniunt, cùm ſemel efflant, avolat illicò mens,</hi> and all <hi>Iſrael</hi> and <hi>Ephraim</hi> danc'd after their Pipes. Rebellion is like a Sewer or Common Shore in a City; it gathers all the filth and rabble to it; <hi>Mille Puellarum, Puerorum, mille Furo<g ref="char:EOLhyphen"/>res,</hi> as if every one of the choſen men of <hi>Iſrael,</hi> had been a <hi>Hercules Furens,</hi> or a <hi>Corybantes;</hi> Madneſſe among the Spiritual men was like a Torrent among the People, <hi>Velut aggere rupto Sternit agros, Sternit ſata laeta, &amp;c.</hi> or like the inchaunted Horn of <hi>Aſtolphe,</hi> made all that heard it mad; <hi>Inſanire parant certa ratione, &amp;c.</hi>
+            </p>
+            <p>It was not doubtleſs too much Learning that made them madd;<note place="margin">Acts 26.24.</note> or if they were endowed with Abilities, allow them to have <hi>Magnas vires, &amp; Curſum celerrimum;</hi> yet they were <hi>Extra viam,</hi>
+               <note place="margin">Auguſt.</note> as Saint <hi>Auguſtine.</hi>
+            </p>
+            <pb n="18" facs="tcp:109955:14"/>
+            <p> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> had all the windes given him but one,<note place="margin">Ulyſſes.</note> which was that that ſhould have brought him to his <hi>Ithaca.</hi>
+               <note place="margin">
+                  <hi>By</hi> Aeolus. Pentheus.</note>
+            </p>
+            <p>
+               <hi>Pentheus</hi> was <hi>Sapiens in omnibus, praeterquam in iis in auibus ſapientem eſſe convenit;</hi> He was wiſe in every thing, but wherein his wiſedome might advantage him: what<g ref="char:EOLhyphen"/>ever other Eminencies were in them, they were poſſeſt with Seneca<hi>'s inſanam Libidinem,</hi>
+               <note place="margin">Seneca. Tullius.</note> and with Tally<hi>'s inſana Jur<g ref="char:EOLhyphen"/>gia.</hi> The Spiritual man is mad; and like Prieſt, like People, whole Acres of <hi>Ellebore</hi> will not purge them.<note place="margin">In Tyberim defluxis O<g ref="char:EOLhyphen"/>ronces.</note> They have infected the Age they liv'd in with Sin, and the World with Shame and Infamy, and ſtand in the Text, as <hi>Pontius Pilate</hi> in the Creed, to transfer their Obloquy to all Poſterity; <hi>Om<g ref="char:EOLhyphen"/>nia Pontus;</hi>
+               <note place="margin">Ovid.</note> Ten Tribes revolted of Twelve, Ten Tribes infected. Schiſm and Rebellion (like <hi>Acefta</hi>'s Arrows) have caught fire flying;<note place="margin">Ioſh. 7.9.</note> And now as (<hi>Ioſhua</hi> ſaid) <hi>Quid facies magno Nomini two?</hi> What wilt thou do with thy glorious Name, if theſe <hi>Cananites</hi> come in and deſtroy us? If they deſtroy a famous and a glorious Church, ſo richly endowed, ſo miraculouſly preſerved, ſo ſtrangely reſtored, what will become of thy Glorious name?</p>
+            <p>Will it not be time for the Great Biſhop of our Soul to ſet a Day,<note place="margin">2 Pet. 2.5.</note> or appoint dayes of Viſitation and dayes of Re<g ref="char:EOLhyphen"/>compence, to put a ſtop to every <hi>Jannes</hi> and <hi>Iambres,</hi> that reſiſt the Truth? Firſt that they proceed no farther; and ſecondly,<note place="margin">2 Tim. 3.8, 9.</note> that their Folly be made manifeſt, that future Ages may take warning by their example, as the Apoſtle writes. Yes! God himſelf thinks it high time to have mercy upon <hi>Sion.</hi>
+               <note place="margin">
+                  <hi>Pateſacta eſtinſania corum.</hi> Pſ. 102.13. Pſ. 74.6.</note> It pityes him to ſee the Church ſo long in her Duſt and Rubbiſh, and the Carved work of his Temples ſpoyled with Axes and Hammers; and therefore, as they have had their time, God now takes his, and Bran<g ref="char:EOLhyphen"/>diſhes his Sword,<note place="margin">Iſa. 52.10.</note> and makes bare his Arme, to be avenged on his Enemies, and take vengeance of his Adverſaries. And in order to this,<note place="margin">Text.</note> our Prophet ſpeaks in the Text, <hi>The dayes of Viſitation are come, the dayes of Recompence are
+<pb n="19" facs="tcp:109955:14"/>come;</hi> Iſrael <hi>ſhall know it; The Prophet is a Fool, the Spiritu<g ref="char:EOLhyphen"/>al man is mad For the multitude of thine Iniquity; Great is the hatred.</hi>
+            </p>
+            <p>And ſo I proceed to the Applicatory and Concluſive part both of the Text and Sermon.<note place="margin">
+                  <hi>3d.</hi> Part.</note> And here I intend not to trouble my ſelf or you with thoſe liſing <hi>Ephraimites</hi> that have ſtarted aſide, like broken Bowes,<note place="margin">Iudges 12.6. Pſal 78.9, 57.</note> that have warpt and ſhrunk either in their Religion or Loyalty; nor, as the Text would bear it, to run a Parallel between <hi>England</hi> and <hi>Iſrael.</hi> The Crimes of our Nation, as they are wrapt up in the Act, ſo may they for ever be buried in the Grave of Oblivion, as in the valley of <hi>Hamon-Gog.</hi>
+               <note place="margin">Ez. 39 11.</note> Onely a word or two to you, my Reverend Brethren of the Clergy, and you of the Laity, and I have done. Be pleas'd to divide among you theſe Apples of Gold in Pictures of Silver,<note place="margin">Pro. 25.11.</note> and may they be like <hi>Manna,</hi> as that that is beſt pleaſing to every Palate.</p>
+            <p>You have heard ſomething of the Son,<note place="margin">Pſal. 78.3. Gen. 15.19, 20.</note> and ſomething of the Sorrowes of <hi>Iſrael,</hi> what Havock and Deſtruction they have made in former and latter Ages; Oh let this de<g ref="char:EOLhyphen"/>luge of Sinne, theſe overflowings of other mens Ungodlineſs raiſe up the Ark of our Devotion ſo many Cubits nearer Heaven!</p>
+            <p>
+               <hi>And now, O ye Prieſts,</hi>
+               <note place="margin">Mal. 2.1. Hag. 2.7. Mar. 11.15 1 Tim. 6.19. Pſ. 118.22. Eph. 2.20. Mat. 7.24, 26.</note> 
+               <hi>this Commandement is for you.</hi>
+            </p>
+            <p>God is about to rebuild his Temple, and Chriſt our Sa<g ref="char:EOLhyphen"/>viour to purge it; you are his Maſter builders; lay a good Foundation, let that ſtone which others have refuſed, be by you made the Head-ſtone in the Corner; <hi>Fundamentum aliud nemo.</hi> Other foundation can no man lay, <hi>&amp;c.</hi> We are denominated to be wiſe or fooliſh, according to our Carriage in this point, and let the Superſtructure be an<g ref="char:EOLhyphen"/>ſwerable. We are not ſent to build <hi>Lamiae</hi>'s Turrets,<note place="margin">Ier. 9.14. Tit. 2.1.</note> Caſtles in the Air (your own Imaginations,) but the Oracles of God in Truth, and ſound Doctrine to your Congregations.</p>
+            <p>As we are Spiritual men,<note place="margin">Pſal 23.3.</note> let us ſuffer our ſelves to be gui<g ref="char:EOLhyphen"/>ded by that Good Spirit that leads us and your Flocks in<g ref="char:EOLhyphen"/>to
+<pb n="20" facs="tcp:109955:15"/>the Land of Righteouſneſſe. The ſpirit of God will never dictate any thing againſt the word of God; As many as walk according to this Rule,<note place="margin">Gal. 6.16.</note> Mercy ſhall be upon them and Peace, as upon the <hi>Iſrael</hi> of God. We cannot miſ<g ref="char:EOLhyphen"/>carry, if we take in the Council of St. <hi>Paul,</hi>
+               <note place="margin">2 Tim. 6.10, 11, 12, 13.</note> who (having told us, That they that erre from the Faith, pierce themſelves through with many ſorrows) ſaid, <hi>But thou, O man of God, flee theſe things; and follow after Righteouſneſs, Godlyneſſe, Faith, Love, Patience, Meekneſs.</hi> And again, Verſe 13. <hi>I charge thee in the ſight of God, who quickneth all things, and before Chriſt Ieſus, who before</hi> Pontius Pilate <hi>witneſſed a good Confeſſion, That thou keep this Commandement without ſpot, unblameable, untill the comming of our Lord Jeſus Christ.</hi> And in the Cloſe;<note place="margin">1 Tim. 6.20. Lev. 22.4, 1 Pet. 1.15.</note> 
+               <hi>O Timothy, Depoſitum cuſtode, &amp;c.</hi> It is a ſin that any of the ſeed of <hi>Aaron</hi> ſhould be a Leper.</p>
+            <p>Together with this of Saint <hi>Paul,</hi> take in alſo that of Saint <hi>Peter; As he that hath called you is Holy, ſo be ye holy in all manner of Converſation.</hi>
+               <list>
+                  <item>1. He calls for an Illuſtrative Holyneſſe. In the utmoſt extent in all manner of Converſa<g ref="char:EOLhyphen"/>tion. In all the windings and changings, and turnings of di<g ref="char:EOLhyphen"/>vine providence.<note place="margin">Luke 9.62.</note> He that ſets his Hand to this Plow, and looks back, is not fit for the kingdom of Heaven, not Fit Himſelf, leſſe Fit to be a Guide or Conduct to Others.</item>
+                  <item>2. He preſſes it by the beſt of Paterns, and the moſt probable Ar<g ref="char:EOLhyphen"/>guments.</item>
+               </list>
+            </p>
+            <p n="1">1. As he that hath called you is Holy.<note place="margin">
+                  <hi>Caeſar</hi> ſaid not <hi>Ite;</hi> but <hi>V<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>i<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> to his Soul<g ref="char:EOLhyphen"/>diers.</note> God that requires Holyneſſe from us, is a Preſident of Holyneſſe unto us. So ſhould we be in our ſelves, and to the Flock over which the Holy Ghoſt hath made us Overſeers; leaſt whilſt we preach to others ſhould be <hi>Anathema.</hi>
+               <note place="margin">1 Pet. 2.15. 1 Cor. 6.27. Ez. 34.19.</note> Worſe was not ſaid of the Sheepherd of <hi>Babylon,</hi> then, that they trampled upon that wherwith they fed their Flock. We have a better Preſident, to be Holy as he that hath called us is Holy, and to write af<g ref="char:EOLhyphen"/>ter that Copy; though there be many Blots, yet we muſt do it as well as we can.<note place="margin">1 Sam. 2.2.</note> But as <hi>Hanna</hi> in her Song: <hi>There is none Holy but the Lord!</hi>
+            </p>
+            <q>
+               <pb n="21" facs="tcp:109955:15"/>
+               <l>Eſſentially there is not: Repreſentatively there is.</l>
+               <l>Efficiently there is not: Inſtrumentally there is.</l>
+               <l>Eminently there is not: Demonſtratively there is.</l>
+            </q>
+            <p>Though we cannot be Almighty as He is,<note place="margin">Ez. 1.24. 1 Tim. 1.17.</note> nor All-wiſe as He is, yet we may in ſome meaſure be Holy as he is, though not tranſcendently.</p>
+            <p n="3">3ly. He calls for it for your Calling-ſake;<note place="margin">1 Pet. 1.15.</note> in common with all Chriſtians, but in ſpecial being called to the high eſt form, the greateſt Honour.<note place="margin">Tribul. Plut.</note> Kings and Princes have Glory'd in it, <hi>Acceſſit titulis Pontificalis honos.</hi> The An<g ref="char:EOLhyphen"/>tient <hi>Romans</hi> choſe their Prieſts out of their Philoſophers, and their Kings out of their Prieſts.<note place="margin">Bar. An.</note> 
+               <hi>Conſtantine</hi> the Great refuſed to receive precedency of the Prelates and Biſhops: <hi>Ita veneratus eſt, acſi divinam in ipſis Majeſtatem vidiſſet,</hi>
+               <note place="margin">Caſſaneus</note> ſays <hi>Caſſaneus;</hi> he would not meddle with their Eccleſiaſtical affairs, <hi>Vos veſtras Cauſas judicate, &amp; diſponite.</hi> In ſhort, What we have upon the account of the Common ſalvati<g ref="char:EOLhyphen"/>on,<note place="margin">Jud. 3. <hi>Ob. ult.</hi>
+               </note> what upon the Supernumerary to be accounted Saviours our ſelves, layes all manner of Obligation to Holyneſs upon us; and we are no better then Fools and Mad men,<note place="margin">Deu. 32.29.</note> if we conſider it not.</p>
+            <p>But to conclude.</p>
+            <p>Peace is not ſo firmly ſetled in our Borders,<note place="margin">Pſ. 147.14. 2 Sam. 20.1.</note> but the Trumpet of Rebellion may ſound again; and who knows from whence, whether from Mount <hi>Ephraim,</hi> or from Mount <hi>Gilead;</hi> whether the Lord would not ſtreng<g ref="char:EOLhyphen"/>then the hands of <hi>Eglon</hi> againſt <hi>Iſrael,</hi>
+               <note place="margin">Iſa. 10 12. Ex. 17.8.</note> or <hi>Amalek</hi> againſt <hi>Iſrael?</hi> We want no Enemies as we are; Let not us make our ſelves more; Let nothing be done of ſtrife and vain glory. The <hi>Canaanite</hi> and <hi>Perizite</hi> is yet in the Land;<note place="margin">Gen. 13.7.</note> After all this is come upon us, and thou haſt given us ſuch a Deliverance as this, Reſtor'd our King and Judges as at the firſt,<note place="margin">If. 1.26.</note> and our Counſellours as at the beginning, Cemented the vaile of the Temple; <hi>If we ſhould again break thy Commandement, wouldst thou not be angry with us,</hi>
+               <note place="margin">Ezra 9.13.</note> 
+               <hi>till thou hadſt deſtroyed us?</hi> ſaid <hi>Ezra</hi> in his Prayer to God.</p>
+            <pb n="22" facs="tcp:109955:16"/>
+            <p> Forget not then that you are the Lords Remembrancers; Give him no reſt night nor day,<note place="margin">Iſ. 62.1. Gen. 6.27.</note> till he perſwade <hi>Japheth</hi> to dwell in the Tents of <hi>Sem;</hi> that till he have in ſome meaſure made the Prieſt as holy as he that hath called him, and till he have made the People as holy as the Prieſt, that <hi>Zacharie</hi>'s Prophecy may take hold of us,<note place="margin">Zach. 12.6.</note> That he that is feeble may be like unto <hi>David,</hi> and <hi>David</hi> the while be like an Angel of God; That the advice and counſel of him that is the Great Sheepherd, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, may ſink into our Hearts and Souls.<note place="margin">C<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rat Oves, Oviumque <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>agiſtres. <hi>1 Pet. 5.4.</hi>
+               </note> 
+               <hi>Feed the Flock of God which is among you,</hi> &amp;c. <hi>Your Reward is before you, That ye may Receive a Crown of Glory which fadeth not away;</hi> Which, God of his mercy Grant unto us all, for his Son Chriſt Jeſus ſake: To whom, with the Father and the Holy Ghoſt be all Honour and Glory, Now and Ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109955:16"/>
+         </div>
+      </body>
+      <back>
+         <div type="testimonies">
+            <pb facs="tcp:109955:17"/>
+            <list>
+               <head>TESTIMONIES CONCERNING The Renowned Dr. SANDERSON.</head>
+               <item>
+                  <label>Dr. <hi>Prideaux.</hi>
+                  </label> NOne States a Queſtion more <hi>punctually,</hi> Reſolves it more <hi>ſa<g ref="char:EOLhyphen"/>tisfactorily,</hi> Anſwers all Objections more <hi>fully,</hi> then that <hi>clear</hi> and <hi>ſolid</hi> man Mr. <hi>Sanderſon.</hi>
+               </item>
+               <item>
+                  <label>Biſhop <hi>
+                        <g ref="char:V">Ʋ</g>ſher.</hi>
+                  </label> And I Propoſed the Caſe to the <hi>Judicious</hi> Dr. <hi>Sanderſon,</hi> who <hi>Graſped</hi> all the Circumſtances of it, and Returned that happy An<g ref="char:EOLhyphen"/>ſwer that <hi>met</hi> with all my Thoughts, <hi>ſatisfied</hi> all my Scruples, and <hi>cleared</hi> up all my Doubts.</item>
+               <item>
+                  <label>Dr. <hi>Hammond.</hi>
+                  </label> That <hi>ſtaid</hi> and <hi>well-weighed</hi> man Dr. <hi>Sanderſon, conceives</hi> all Things <hi>deliberately, dwells</hi> upon them <hi>diſcreetly, diſcerns</hi> Things that differ <hi>exactly,</hi> paſſeth his Judgement <hi>rationally,</hi> and expreſſes it <hi>aptly, clearly</hi> and <hi>honestly.</hi>
+               </item>
+               <item>
+                  <label>Mr. <hi>Baxter.</hi>
+                  </label> —I do not intend by this Character ſuch Epiſcopal Divines as the Reverend Dr. <hi>Sanderſon,</hi> whom I honour for his <hi>Learning, Judgement, Moderation</hi> and <hi>Piety.</hi>
+               </item>
+               <item>
+                  <label>Dr. <hi>Fuller.</hi>
+                  </label> Amongſt the Modern Worthies of this Colledge ſtill ſurviving, Dr. <hi>Robert Sanderſon,</hi> late Regius Profeſſor, moveth in the high<g ref="char:EOLhyphen"/>eſt Sphere, a no leſs <hi>plain</hi> and <hi>profitable</hi> then <hi>able</hi> and <hi>profound</hi> Ca<g ref="char:EOLhyphen"/>ſuiſt, (a Learning almoſt loſt amongſt Proteſtants.)</item>
+               <item>
+                  <label>Biſhop <hi>Reynolds.</hi>
+                  </label> —There is no mention of it in that Table of the ſeveral O<g ref="char:EOLhyphen"/>pinions drawn up by a <hi>Learned</hi> man of our Church, Dr. <hi>Sander<g ref="char:EOLhyphen"/>ſon.</hi>
+               </item>
+               <item>
+                  <label>Biſhop <hi>Hall.</hi>
+                  </label> Alas, why do I wade further into the deep and large ſearch of Caſes of Conſcience, wherein I hear ſo far a progreſs is made by the excellent Dr. <hi>Sanderſon,</hi> the moſt <hi>exact</hi> and <hi>faithful Caſuist</hi> living?</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
